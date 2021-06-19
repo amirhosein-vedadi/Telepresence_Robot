@@ -1,4 +1,3 @@
-95	Pitch : -1.54	Yaw : -7.58	Label : 4
 Roll : -40.88	Pitch : -1.48	Yaw : -7.65	Label : 4
 Roll : -40.88	Pitch : -1.46	Yaw : -7.71	Label : 4
 Roll : -40.77	Pitch : -1.60	Yaw : -7.73	Label : 4
@@ -1864,4 +1863,3 @@ Roll : -73.14	Pitch : 14.45	Yaw : 4.90	Label : 4
 Roll : -72.97	Pitch : 14.40	Yaw : 4.93	Label : 4
 Roll : -73.04	Pitch : 14.26	Yaw : 4.75	Label : 4
 Roll : -72.95	Pitch : 14.14	Yaw : 4.82	Label : 4
-Roll : -72.97	Pitch : 

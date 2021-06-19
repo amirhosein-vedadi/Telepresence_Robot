@@ -1,4 +1,3 @@
-10.72	Label : 1
 Roll : -3.41	Pitch : 30.39	Yaw : -10.83	Label : 1
 Roll : -3.48	Pitch : 30.52	Yaw : -10.81	Label : 1
 Roll : -3.35	Pitch : 30.32	Yaw : -10.85	Label : 1
@@ -2017,4 +2016,3 @@ Roll : -5.25	Pitch : 42.20	Yaw : -10.48	Label : 1
 Roll : -5.48	Pitch : 42.41	Yaw : -10.43	Label : 1
 Roll : -5.20	Pitch : 42.13	Yaw : -10.34	Label : 1
 Roll : -5.25	Pitch : 42.16	Yaw : -10.44	Label : 1
-Roll : -5.22	Pitch : 42.10	Y
